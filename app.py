@@ -3,7 +3,7 @@ st.header('ODD or EVEN')
 
 number = st.number_input('Enter number to proceed')
 
-def trb:
+def trb():
   if number%2:
     res='EVEN'
   else:
