@@ -11,4 +11,4 @@ def trb():
 
   st.write(res)
 
-st.button("Check", onclick=trb)
+st.button("Check", onclick=trb())
