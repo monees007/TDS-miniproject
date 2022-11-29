@@ -3,9 +3,6 @@ st.header('ODD or EVEN')
 
 number = st.number_input('Enter number to proceed')
 
-def trb():
-  
-
 if st.button("Check"):
   if number%2:
     res='EVEN'
